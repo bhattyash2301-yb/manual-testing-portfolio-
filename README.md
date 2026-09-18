@@ -9,7 +9,9 @@ I am a Software Manual Tester with a focus on writing clear, detailed test cases
 ## 📁 Repository Contents
 
 | Folder / File | Description |
-|---|---|
+manual-testing-portfolio-
+/Store_Test_Cases.md
+
 | `test-cases/` | Detailed test cases covering test steps, test data, expected results and status |
 | `test-case-summary/` | Summary of executed test cases (total, passed, failed, not run) |
 
