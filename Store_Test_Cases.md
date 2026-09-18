@@ -10,9 +10,9 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Purchase Entry | High | PASS | STORE | — | PRAFUL | 11/08/2026 |
+| Store Purchase Entry | High | PASS | STORE | — | Yash Bhatt | 11/08/2026 |
 
-**Precondition:** User logged in as PRAFUL (SURAT ADMIN)
+**Precondition:** User logged in as Yash Bhatt (SURAT ADMIN)
 
 **Test Steps**
 
@@ -59,7 +59,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Serial No Create | High | PASS | STORE | — | PRAFUL | 11/08/2026 |
+| Store Serial No Create | High | PASS | STORE | — | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-01 completed; Purchase No 12331 in Pending Stock
 
@@ -103,7 +103,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Stock Issue | High | PASS | PSRT | PRODUCTION 1 / POL FACTORY | PRAFUL | 11/08/2026 |
+| Stock Issue | High | PASS | PSRT | PRODUCTION 1 / POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-02 completed; M-1250–M-1254 in STORE stock
 
@@ -152,7 +152,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-03 stock issue completed
 
@@ -195,7 +195,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-03 completed
 
@@ -231,7 +231,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-03 completed
 
@@ -271,7 +271,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Return | High | PASS | PSRT | PRODUCTION 1 / POL FACTORY | PRAFUL | 11/08/2026 |
+| Return | High | PASS | PSRT | PRODUCTION 1 / POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-03 stock issue to PSRT completed
 
@@ -318,7 +318,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | High | PASS | STORE | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | High | PASS | STORE | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-07 return from PSRT completed
 
@@ -356,7 +356,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSRT | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-07 completed
 
@@ -395,7 +395,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Stock Issue | High | PASS | PSAC-2 | PRODUCTION 2 / POL FACTORY | PRAFUL | 11/08/2026 |
+| Stock Issue | High | PASS | PSAC-2 | PRODUCTION 2 / POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-07 return to STORE completed; at least 4 units available
 
@@ -440,7 +440,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSRT, PSAC-2 | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSRT, PSAC-2 | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-03 & TC-10 completed
 
@@ -478,7 +478,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSAC-2 | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSAC-2 | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-10 issue to PSAC-2 completed
 
@@ -513,7 +513,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Return | High | PASS | PSAC-2 | PRODUCTION 2 / POL FACTORY | PRAFUL | 11/08/2026 |
+| Return | High | PASS | PSAC-2 | PRODUCTION 2 / POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-10 stock issue to PSAC-2 completed
 
@@ -558,7 +558,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | STORE / PSAC-2 | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | STORE / PSAC-2 | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-13 PSAC-2 return completed
 
@@ -593,7 +593,7 @@
 
 | Module | Priority | Status | Dept Code | Prod Type / Process | Tested By | Tested Date |
 |---|---|---|---|---|---|---|
-| Store Report Viewer | Medium | PASS | PSAC-2, PSRT | POL FACTORY | PRAFUL | 11/08/2026 |
+| Store Report Viewer | Medium | PASS | PSAC-2, PSRT | POL FACTORY | Yash Bhatt | 11/08/2026 |
 
 **Precondition:** TC-07 & TC-13 completed
 
